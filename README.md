@@ -1,3 +1,4 @@
+![banner](https://github.com/user-attachments/assets/f727e372-3d2f-4b17-b67c-e4214c2e2bff)
 <h1 align="center">Hi 👋, I'm Vineet Dorikar</h1>
 <h3 align="center">An Aspiring Backend developer who is eager to learn new things</h3>
 
