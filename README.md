@@ -1,6 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/f727e372-3d2f-4b17-b67c-e4214c2e2bff)
-<h1 align="center">Hi 👋, I'm Vineet Dorikar</h1>
-<h3 align="center">hii its vineet, you can call me wannabe ml guy</h3>
+<h1 align="center">hii its vineet, you can call me wannabe ml guy</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvineet99&label=Profile%20views&color=0e75b6&style=flat" alt="itsvineet99" /> </p>
 
