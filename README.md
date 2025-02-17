@@ -4,6 +4,5 @@
 - lil bit webdev
 - ml stuff
 
-#### **right now i'm focusing on ml and i want to get internship in ml**
-
-![meaning of life](https://saurabhalone.com/images/image.jpeg "a life")
+#### **right now i'm focusing on ml**
+<img src="https://saurabhalone.com/images/image.jpeg" width="440" height="260">
