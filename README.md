@@ -3,5 +3,7 @@
 ### skills
 - lil bit webdev
 - ml stuff
-**right now i'm focusing on ml and i want to get internship in ml**
+
+#### **right now i'm focusing on ml and i want to get internship in ml**
+
 ![meaning of life](https://saurabhalone.com/images/image.jpeg "a life")
