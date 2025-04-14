@@ -6,4 +6,4 @@
 - cs stuff (os, networking)
 
 #### **right now i'm focusing on ml**
-<img src="https://saurabhalone.com/images/image.jpeg" width="440" height="260">
+<img src="life's_meaning.jpeg" width="440" height="260">
