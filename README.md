@@ -7,9 +7,10 @@
   the ultimate goal is to work on some really cool and important problem in ml/dl along with giants in field.
 ### skills
 - languages : python, javascript.
-- frameworks : pytorch, scikit-learn, django.
+- frameworks : pytorch, scikit-learn, django, llamaindex.
 - libraries : numpy, pandas.
 - classical ml like classification, regression, clustering, parameter tuning, feature extraction, feature scaling, model evaluation, data cleaning, pipelines, ensemble methods, boosting etc.
+- RAG systems, vector databases 
 
 #### **I WILL MAKE IT.**
 <img src="life's_meaning.jpeg" width="440" height="260">
