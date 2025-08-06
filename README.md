@@ -5,6 +5,8 @@
   in parallel i'm also learning applied ai stuff like rag, agents and practical implementation of these systems in real world. 
   i've explored word embeddings and nlp stuff a lil bit and that stuff really excites me, will be working on nlp stuff in future fs. 
   the ultimate goal is to work on some really cool and important problem in ml/dl along with giants in field.
+
+i also write [blogs](https://medium.com/@vineetdorikar06), and i'm active on [X](https://x.com/x0_vineet).
 ### skills
 - languages : python, javascript.
 - frameworks : pytorch, scikit-learn, django, llamaindex.
