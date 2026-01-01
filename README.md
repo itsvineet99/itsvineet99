@@ -1,5 +1,5 @@
 ### hii its vineet,
-  3rd yr cs student trying his best to get job. 
+  3rd yr cs student trying his best to get job. i read and write on my [blog](https://vineetdorikar.bearblog.dev/).
 
 ### skills
 - python
