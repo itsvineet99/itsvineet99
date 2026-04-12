@@ -3,3 +3,4 @@
 
 *deep learning // systems programming // compilers*
 
+*currently unemployed and looking for job in any of above fields.*
